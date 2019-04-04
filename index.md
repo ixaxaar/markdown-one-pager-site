@@ -1,91 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Russi Chatterjee's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Russi Chatterjee
 
+## [Russi Chatterjee](https://i.imgur.com/il87wZJ.jpg)
+- Github: [@ixaxaar](https://github.com/ixaxaar) Stackoverflow: [@ixaxaar](https://stackoverflow.com/users/2134957/ixaxaar) Twitter: [@markovinchains](https://twitter.com/markovinchains)
+- Email [root@ixaxaar.in](root@ixaxaar.in) / [russichatterjee@gmail.com](russichatterjee@gmail.com)
 
-## Currently
+### In short
 
-Standing on the shoulders of giants
+- Data Scientist and Engineer with ~ 8 years exp.
+- Experience in Ad-tech, healthcare, linguistics, social networks, and IOT
+- Blend of both data science and engineering experience
+- Held leadership roles for > 4 years
 
-### Specialized in
+### Stack
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **Languages**: Scala, Python, bash
+- **ML toolkit**: scikit-learn, scikit-image, networkx, pytorch, pymc3, pandas, numpy, scipy, CoreNLP, KenLM, openIE, ML-LIB
+- **Big data**: Spark, presto, hive, storm, AWS EMR, Athena, Glue catalog
+- **Databases**: cassandra, elasticsearch, postgres / postGIS
 
+### Experience
 
-### Research interests
+#### 1. Senior Data Scientist, [Lifesight.io](https://lifesight.io) (05-2018 - present)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Geo-location based ad analytics
+- Responsible for data sciences and some data engineering tasks
+- Worked on various geospatial problems
+- Planning, tracking, brainstorming and managing tasks and the team
+- Processed petabyte-scale data
 
+#### 2. Data Scientist, [Reverie language technologies](https://reverieinc.com/) (07-2016 - 08-2017)
 
-## Education
+- Creating an NLP stack for Indian languages
+- Individual contributor role amongst a team of researchers
+- Worked on several cutting-edge problems for oft-ignored languages
 
-`1654-1660`
-__The King's School, Grantham.__
+#### 3. Data Scientist & Tech Lead, [Practo](https://practo.com) (05-2015 - 07-2016)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Lead the search team
+- Conceptualized and executed "Cerebro", the search engine that powers [practo.com](https://practo.com)
+- Involved in various data science tasks across verticals
 
-- Sizar
+#### 4. Software Engineer, on contract, [Showt](https://showt.com) (07-2014 - 01-2015)
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Data engineering role
+- Involved designing distributed systems at a scale of 20k QPS
 
-- Fellow
+#### 5. Software Engineer, MagnetWorks (08-2013 - 06-2014)
 
+- IOT analytics product for heavy industries
+- Extremely hands-on, full-stack developer role
 
+#### 6. Software Engineer, Toshiba (02-2013 - 08-2013)
 
-## Awards
+- Worked with the microkernel core OS team, Japan
 
-`2012`
-President, *Royal Society*, London, UK
+#### 7. Software Engineer, Wipro (02-2011 - 02-2013)
 
-Associate, *French Academy of Science*, Paris, France
+- Linux kernel device driver developer
 
+### Open source Works
 
+- **Deep Learning**
+1. [pytorch-dnc](https://github.com/ixaxaar/pytorch-dnc) : Differential Neural Computers, Sparse Access Memory and Sparse Differentiable Neural Computers. (replicating code unreleased by google)
+2. [pytorch-dni](https://github.com/ixaxaar/pytorch-dni) : Implementation of Deepmind's "Decoupled Neural Interfaces Using Synthetic Gradients".
+3. [subLSTM](https://github.com/ixaxaar/pytorch-sublstm) : Implementation of subLSTMs from the paper "Cortical microcircuits as gated-recurrent neural networks".
 
-## Publications
+- **Computational Neuroscience**
+6. [Spectrum](https://github.com/synergetics/spectrum) : Higher-order spectrum estimation toolkit, for analysing EEG recordings
+7. [Cortical Microcircuit](https://github.com/synergetics/potjans_2014) : Implementation of a model of a cortical microcircuit (a 1mm² of the human brain), in pyNEST, from the paper "The cell-type specific cortical microcircuit: relating structure and activity in a full-scale spiking network model."
+8. [S-transform](https://github.com/synergetics/stockwell_transform) : The Stockwell transorm.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- **Mathematics**
 
-### Journals
+[monoid.space](http://monoid.space/), a book on learning how to "implement" a few math theories.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+### Education
+- B-Tech., Computer Science, [NIT, Rourkela](https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela) - 2006-2010
